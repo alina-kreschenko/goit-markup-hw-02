@@ -3,12 +3,14 @@ body {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
+  background-color: #fff;
 }
 h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 p {
   letter-spacing: 0.02em;
@@ -17,4 +19,7 @@ p {
 a {
   text-decoration: none;
   color: inherit;
+}
+ul {
+  list-style: none;
 }
