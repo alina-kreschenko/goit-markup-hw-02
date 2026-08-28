@@ -1,7 +1,7 @@
 button {
   cursor: pointer;
 }
-address {
+.site-address {
   font-style: normal;
   letter-spacing: 0.02em;
 }
@@ -18,16 +18,16 @@ address {
   color: #4d5ae5;
 }
 
-nav {
+.nav {
   font-weight: 500;
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
-.site-nav:hover,
-.site-nav:focus {
+.site-nav a:hover,
+.site-nav a:focus {
   color: #404bbf;
 }
-.site-address:hover,
-.site-address:focus {
+.site-address a:hover,
+.site-address a:focus {
   color: #404bbf;
 }

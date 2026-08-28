@@ -1,14 +1,14 @@
-ul {
+.features-l {
   list-style: none;
 }
-h3 {
+.features-s {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
-p {
+.features-t {
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
